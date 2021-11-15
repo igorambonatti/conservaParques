@@ -1,0 +1,75 @@
+name,research_areas,Marinho,Áreas Degradadas,Ecologia Geral,Ecologia Humana,Educação Ambiental,Espeleologia,Espécies Exóticas,Fauna,Flora,Funga,Genética,Geologia e Solo,Gestão de Unidades,Hidrologia,História Natural e Arqueologia,Paleontologia,Poluição,Recursos Econômicos,Saúde,Turismo
+PARNA Cavernas do Peruaçu,14,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,1
+PARNA da Amazônia,11,0,0,1,1,1,0,1,1,1,0,1,0,1,0,1,0,0,1,0,1
+PARNA da Chapada das Mesas,14,0,0,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,0,1
+PARNA da Chapada Diamantina,17,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+PARNA da Chapada dos Guimarães,15,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+PARNA da Chapada dos Veadeiros,17,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1
+PARNA da Furna Feia,16,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1
+PARNA da Lagoa do Peixe,17,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+PARNA da Restinga de Jurubatiba,19,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PARNA da Serra da Bocaína,16,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,0,0,1,1,1
+PARNA da Serra da Bodoquena,15,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1
+PARNA da Serra da Canastra,16,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+PARNA da Serra da Capivara,16,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1
+PARNA da Serra da Cutia,10,0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1
+PARNA da Serra das Confusões,16,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1
+PARNA da Serra das Lontras,12,0,1,1,1,1,0,1,1,1,0,1,0,1,1,0,0,0,0,1,1
+PARNA da Serra do Cipó,18,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+PARNA da Serra do Divisor,15,0,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1
+PARNA da Serra do Gandarela,16,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1
+PARNA da Serra do Itajaí,12,0,1,1,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0,1
+PARNA da Serra do Pardo,10,0,0,1,1,1,0,1,1,1,0,1,0,1,1,0,0,0,0,0,1
+PARNA da Serra dos Orgãos,18,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PARNA da Serra Geral,14,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1
+PARNA da Tijuca,19,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PARNA das Araucárias,15,0,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1
+PARNA das Emas,16,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+PARNA das Nascentes do Rio Parnaíba,13,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,0,0,1,0,1
+PARNA das Sempre-Vivas,14,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0,1
+PARNA de Anavilhanas,16,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+PARNA de Aparados da Serra,16,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,1,1,1
+PARNA de Boa Nova,13,0,0,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1
+PARNA de Brasília,18,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PARNA de Caparaó,19,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PARNA de Ilha Grande,13,0,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,0,1
+PARNA de Itatiaia,19,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PARNA de Jericoacoara,18,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1
+PARNA de Pacaás Novos,13,0,0,1,1,1,0,1,1,1,1,1,0,1,0,1,0,0,1,1,1
+PARNA de Saint-Hilaire/Lange,15,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,0,1
+PARNA de São Joaquim,16,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,0,1
+PARNA de Sete Cidades,16,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+PARNA de Ubajara,16,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1
+PARNA Descobrimento,14,1,0,1,1,1,0,1,1,1,1,1,1,1,0,0,1,0,1,0,1
+PARNA do Acari,7,0,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1
+PARNA do Alto Cariri,11,0,0,1,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,1
+PARNA do Araguaia,15,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+PARNA do Boqueirão da Onça,9,0,0,1,1,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1
+PARNA do Cabo Orange,15,1,0,1,1,1,0,1,1,1,0,1,0,1,0,1,1,1,1,1,1
+PARNA do Catimbau,19,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PARNA do Iguaçu,18,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PARNA do Jamanxim,14,0,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0,1
+PARNA do Jau,16,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+PARNA do Juruena,15,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,0,1
+PARNA do Monte Pascoal,17,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+PARNA do Monte Roraima,11,0,0,1,1,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,1
+PARNA do Pantanal Mato-Grossense,17,0,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+PARNA do Pau Brasil,14,0,1,1,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,0,1
+PARNA do Pico da Neblina,17,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+PARNA do Rio Novo,10,0,0,1,1,1,0,1,1,1,0,0,0,1,0,0,0,1,1,0,1
+PARNA do Superagui,17,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+PARNA do Viruá,15,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0,1
+PARNA dos Campos Amazônicos,15,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0,1
+PARNA dos Campos Ferruginosos,9,0,0,1,0,1,1,0,1,1,0,0,1,1,0,0,0,0,1,0,1
+PARNA dos Campos Gerais,15,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1
+PARNA dos Lençóis Maranhenses,17,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+PARNA Grande Sertão Veredas,16,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1
+PARNA Guaricana,12,0,0,1,1,1,0,1,1,1,1,1,0,1,0,0,0,1,1,0,1
+PARNA Mapinguari,15,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,1
+PARNA Marinho das Ilhas dos Currais,13,1,0,1,1,1,0,1,1,1,0,1,1,1,0,0,0,1,1,0,1
+PARNA Marinho de Fernando de Noronha,18,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PARNA Marinho dos Abrolhos,16,1,0,1,1,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,1
+PARNA Montanhas do Tumucumaque,17,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+PARNA Nascentes do Lago Jari,13,0,0,1,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0,1
+PARNA Serra da Mocidade,13,0,0,1,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,0,1
+PARNA Serra de Itabaiana,17,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1
